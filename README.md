@@ -6,3 +6,4 @@
 
 ![JenkinsDistributedBuildResultsImperative!](https://lucid.app/publicSegments/view/1da9bc53-1f84-4e3f-b4c6-424b1187be4d/image.png)
 
+# change maven version to the version of Java running in ther servers.: sudo alternatives --config java
