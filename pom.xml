@@ -69,6 +69,5 @@
     </repository>													 <!-- Also make sure you have the above two or one repositories created -->
   
   </distributionManagement> 
-  <!-- <version>${maven-deploy-plugin.version}</version> -->
 
 </project>
