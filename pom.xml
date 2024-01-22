@@ -68,6 +68,7 @@
       <url>http://172.31.91.33:8081/repository/maven-java-webapp-repository/</url> <!-- Update the IP/Address to Your Nexus VM IP -->
     </repository>													 <!-- Also make sure you have the above two or one repositories created -->
   
-  </distributionManagement>
+  </distributionManagement> 
+  <!-- <version>${maven-deploy-plugin.version}</version> -->
 
 </project>
